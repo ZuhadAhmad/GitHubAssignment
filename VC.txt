@@ -1,0 +1,4 @@
+Version Control:
+
+Explanation:
+Version Control is an ability of a system or a software that enables us to keep track of changes made to files over time. Because it stores previous versions of files we can ripple through the history and see what was done earlier. If at any point we make a mistake we can easily revisit the previous version and make amends for our wrong footing. It also makes teamwork easier by allowing multiple people to work on the same projects at the same time without disturbing each other's work. 
